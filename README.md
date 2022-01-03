@@ -8,6 +8,4 @@
 <a href="https://github.com/test2user-aqil">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=test2user-aqil&bg_color=0d1117&text_color=ccf" />
 </a>
-<a href="https://github.com/test2user-aqil/texpress">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=test2user-aqil&repo=texpress&bg_color=0d1117&text_color=ccf" />
-</a>
+
