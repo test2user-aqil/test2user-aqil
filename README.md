@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Something+is+better+than+nothing;I'm+nobody%2C+and+neither+are+you;pessimistic+thoughts+%231991" />
+</p>
+
 ```
  ____                       _   _     _               _     
 / ___|  ___  _ __ ___   ___| |_| |__ (_)_ __   __ _  (_)___ 
