@@ -28,5 +28,5 @@
 
 ## Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=bash,linux,git,github,heroku,netlify,vscode,html,css,js,tailwind,react,svelte,astro,python,c,cpp,rust" />
+  <img src="https://skillicons.dev/icons?theme=dark&perline=9&i=bash,linux,git,github,heroku,netlify,vscode,html,css,js,tailwind,react,svelte,astro,python,c,cpp,rust" />
 </p>
