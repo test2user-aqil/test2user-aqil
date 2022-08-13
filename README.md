@@ -1,3 +1,5 @@
+> We aren't afraid of *the dark*, but of *__being alone__* in *the dark* 
+
 ## Tech Stacks
 <p align="center">
   <img src="https://skillicons.dev/icons?theme=dark&perline=9&i=bash,linux,git,github,heroku,netlify,vscode,html,css,js,tailwind,react,svelte,astro,python,c,cpp,rust" />
