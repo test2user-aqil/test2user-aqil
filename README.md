@@ -2,7 +2,7 @@
 
 <h2 align="center">Tech Stacks</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=linux,linux,git,github,vscode,html,css,js,astro,tailwind,react,svelte,python,c,cpp,rust" />
+  <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=linux,bash,git,github,vscode,html,css,js,astro,tailwind,react,svelte,python,c,cpp,rust" />
 </p>
 
 <h2 align="center">Git statistics</h2>
