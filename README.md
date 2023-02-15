@@ -8,4 +8,3 @@
 ![Top Langs](https://github-readme-stats-test2user-aqil.vercel.app/api/top-langs/?username=test2user-aqil&layout=compact&theme=github_dark&count_private=true&hide_border=true&exclude_repo=dotfiles)
 
 
-My BTC account `bc1q8uwdyjwsglc3qj8653qxl6tgft7ugvpuz55cfe`
