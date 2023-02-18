@@ -1,6 +1,6 @@
 ### My Favorites
 
-![Favorites](https://skillicons.dev/icons?theme=dark&i=svelte,neovim,github,md,linux)
+![Favorites](https://skillicons.dev/icons?theme=dark&i=svelte,ts,neovim,vscode,github,md,linux)
 
 ### Github Stats ⚡
   
